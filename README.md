@@ -4,6 +4,8 @@
 
 <h1 align="center">Spotbucket</h1>
 
+<h2 align="center">Major work on this project will complete before Sept,2024 such as UI and Location addition and authentication speed is slow</h2>h2
+
 <p align="center">
   Your ultimate app for managing and exploring locations with ease.
 </p>
